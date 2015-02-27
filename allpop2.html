@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Population Growth and Density in Colorado</title>
+		      <link rel="icon" type="image/png" href="http://dola.colorado.gov/gis-cms/sites/default/files/gis-images/COfavicon2.png">
+        <script type="text/javascript" src="js/d3.v3.min.js"></script>
+        <script type="text/javascript" src="js/datasets.js"></script>
+		
+				<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://dola.colorado.gov/gis-cms/sites/default/files/ctools/uniform/jquery.uniform.min.js"></script>				
+				
+				<link rel="stylesheet" href="http://dola.colorado.gov/cms-base/sites/dola.colorado.gov.gis-cms/files/projects/population/css/uniform.default.min.css" media="screen" />
+	
+	
+
+    <link rel="stylesheet" href="css/style.css">
+
+	</head>
+	<body>
+<!--[if lte IE 8]>
+<h3>Please upgrade your browser to a newer version of Internet Explorer to see this animation.</h3>
+<![endif]-->
+
+	<div id="tooltip" class="hidden"><p><strong>
+	<span id="dtitle"></span></strong></p><p>
+	<span id="value"></span><br />
+	<span id="value2"></span><br />
+	<span id="value3"></span></p>
+	</div>
+	<div id="xlabel"></div>
+	<div id="toplabel"></div>
+	<div id="ylabel" align="center">County Population Rank</div>
+	<div id="yrbox">
+	<h2 id="year">1870</h2>
+	</div>
+	
+
+		<div id="cat1" class="region"></div>
+		<div id="cat2" class="region"></div>
+		<div id="cat3" class="region"></div>
+		<div id="cat4" class="region"></div>
+		<div id="cat5" class="region"></div>
+		<div id="text1" class="reg2">Front Range</div>
+		<div id="text3" class="reg2">Central Mountains</div>		
+		<div id="text2" class="reg2">Eastern Plains</div>	
+		<div id="text4" class="reg2">Western Slope</div>
+		<div id="text5" class="reg2">San Luis Valley</div>
+
+		
+        <script type="text/javascript" src="js/popvis.js"></script>
+	
+<div id="uniform-animate" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="animateall();"><span>Animate</span></div>
+<div id="uniform-btn1870" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[0],'1870',1);"><span>1870</span></div>
+<div id="uniform-btn1880" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[1],'1880',1);"><span>1880</span></div>
+<div id="uniform-btn1890" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[2],'1890',1);"><span>1890</span></div>
+<div id="uniform-btn1900" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[3],'1900',1);"><span>1900</span></div>
+<div id="uniform-btn1910" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[4],'1910',1);"><span>1910</span></div>
+<div id="uniform-btn1920" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[5],'1920',1);"><span>1920</span></div>
+<div id="uniform-btn1930" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[6],'1930',1);"><span>1930</span></div>
+<div id="uniform-btn1940" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[7],'1940',1);"><span>1940</span></div>
+<div id="uniform-btn1950" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[8],'1950',1);"><span>1950</span></div>
+<div id="uniform-btn1960" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[9],'1960',1);"><span>1960</span></div>
+<div id="uniform-btn1970" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[10],'1970',1);"><span>1970</span></div>
+<div id="uniform-btn1980" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[11],'1980',1);"><span>1980</span></div>
+<div id="uniform-btn1990" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[12],'1990',1);"><span>1990</span></div>
+<div id="uniform-btn2000" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[13],'2000',1);"><span>2000</span></div>
+<div id="uniform-btn2010" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[14],'2010',1);"><span>2010</span></div>
+<div id="uniform-btn2020" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[15],'2020',1);"><span>2020</span></div>
+<div id="uniform-btn2030" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[16],'2030',1);"><span>2030</span></div>
+<div id="uniform-btn2040" class="button" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');" onclick="turndata(ds[17],'2040',1);"><span>2040</span></div>
+		
+
+
+	</body>
+
+</html>
