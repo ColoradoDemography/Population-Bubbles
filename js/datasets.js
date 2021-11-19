@@ -5781,386 +5781,386 @@ var ds = [
     [{
             'Name': 'El_Paso', 'Label': 'El Paso',
             'SqMi': '2129.54611768178',
-            'Pop': '737354',
-            'Density': '346.2',
-            'Rank': '2'
+            'Pop': '730395',
+            'Density': '343.4',
+            'Rank': '1'
         }, {
             'Name': 'Denver', 'Label': 'Denver',
             'SqMi': '154.631513924594',
-            'Pop': '737855',
-            'Density': '4760.4',
-            'Rank': '1'
+            'Pop': '715522',
+            'Density': '4676.61',
+            'Rank': '2'
         }, {
             'Name': 'Arapahoe', 'Label': 'Arapahoe',
             'SqMi': '805.437259763866',
-            'Pop': '664990',
-            'Density': '826.1',
+            'Pop': '655070',
+            'Density': '820.8',
             'Rank': '3'
         }, {
             'Name': 'Jefferson', 'Label': 'Jefferson',
             'SqMi': '774.032663628338',
-            'Pop': '586065',
-            'Density': '757.2',
+            'Pop': '582910',
+            'Density': '764.2',
             'Rank': '4'
         }, {
             'Name': 'Adams', 'Label': 'Adams',
             'SqMi': '1183.89604480378',
-            'Pop': '528857',
-            'Density': '446.7',
+            'Pop': '519572',
+            'Density': '445.0',
             'Rank': '5'
         }, {
             'Name': 'Larimer', 'Label': 'Larimer',
             'SqMi': '2633.95260678707',
-            'Pop': '359838',
-            'Density': '136.985380477337',
+            'Pop': '359066',
+            'Density': '138.3',
             'Rank': '6'
         }, {
             'Name': 'Douglas', 'Label': 'Douglas',
             'SqMi': '842.869059085276',
-            'Pop': '354332',
-            'Density': '417.421895142083',
+            'Pop': '357978',
+            'Density': '426.0',
             'Rank': '7'
         }, {
             'Name': 'Boulder', 'Label': 'Boulder',
             'SqMi': '740.369684307634',
-            'Pop': '330975',
-            'Density': '450.314224186235',
-            'Rank': '9'
+            'Pop': '330758',
+            'Density': '455.4',
+            'Rank': 8'
         }, {
             'Name': 'Weld', 'Label': 'Weld',
             'SqMi': '4016.79397777343',
-            'Pop': '333004',
-            'Density': '82.9',
-            'Rank': '8'
+            'Pop': '328981',
+            'Density': '82.5',
+            'Rank': '9'
         }, {
             'Name': 'Pueblo', 'Label': 'Pueblo',
             'SqMi': '2397.79408258293',
-            'Pop': '169270',
-            'Density': '70.6',
+            'Pop': '168162',
+            'Density': '70.5',
             'Rank': '10'
         }, {
             'Name': 'Mesa', 'Label': 'Mesa',
             'SqMi': '3341.12190405512',
-            'Pop': '156262',
+            'Pop': '155703',
             'Density': '46.8',
             'Rank': '11'
         }, {
             'Name': 'Garfield', 'Label': 'Garfield',
             'SqMi': '2955.83641866505',
-            'Pop': '61595',
-            'Density': '20.8',
+            'Pop': '61685',
+            'Density': '20.9',
             'Rank': '13'
         }, {
             'Name': 'Broomfield', 'Label': 'Broomfield',
             'SqMi': '33.600029636726',
-            'Pop': '72825',
-            'Density': '2167.4',
+            'Pop': '74112',
+            'Density': '2243.8',
             'Rank': '12'
         }, {
             'Name': 'Eagle', 'Label': 'Eagle',
             'SqMi': '1691.790238449',
-            'Pop': '56194',
-            'Density': '33.2',
-            'Rank': '15'
+            'Pop': '55731',
+            'Density': '33.1',
+            'Rank': '14'
         }, {
             'Name': 'La_Plata', 'Label': 'La Plata',
             'SqMi': '1699.7070282978',
-            'Pop': '58510',
-            'Density': '34.4',
-            'Rank': '14'
+            'Pop': '55638',
+            'Density': '32.9',
+            'Rank': '15'
         }, {
             'Name': 'Fremont', 'Label': 'Fremont',
             'SqMi': '1533.93024886728',
-            'Pop': '47805',
-            'Density': '31.2',
+            'Pop': '48939',
+            'Density': '31.9',
             'Rank': '16'
         }, {
             'Name': 'Montrose', 'Label': 'Montrose',
             'SqMi': '2242.5948944708',
-            'Pop': '43242',
-            'Density': '19.3',
+            'Pop': '42679',
+            'Density': '191.0',
             'Rank': '17'
         }, {
             'Name': 'Delta', 'Label': 'Delta',
             'SqMi': '1148.59848992471',
-            'Pop': '31089',
-            'Density': '27.1',
-            'Rank': '19'
+            'Pop': '31196',
+            'Density': '27.3',
+            'Rank': '18'
         }, {
             'Name': 'Summit', 'Label': 'Summit',
             'SqMi': '619.277626407496',
-            'Pop': '31289',
-            'Density': '50.5',
-            'Rank': '18'
+            'Pop': '31055',
+            'Density': '51.1',
+            'Rank': '19'
         }, {
             'Name': 'Elbert', 'Label': 'Elbert',
             'SqMi': '1851.01674957288',
-            'Pop': '28276',
-            'Density': '15.3',
+            'Pop': '26062',
+            'Density': '14.1',
             'Rank': '21'
         }, {
             'Name': 'Morgan', 'Label': 'Morgan',
             'SqMi': '1293.7424541529',
-            'Pop': '28941',
-            'Density': '22.4',
+            'Pop': '29111',
+            'Density': '22.7',
             'Rank': '20'
         }, {
             'Name': 'Montezuma', 'Label': 'Montezuma',
             'SqMi': '2040.15050848846',
-            'Pop': '26673',
-            'Density': '13.1',
+            'Pop': '25849',
+            'Density': '12.7',
             'Rank': '22'
         }, {
             'Name': 'Routt', 'Label': 'Routt',
             'SqMi': '2368.13531999978',
-            'Pop': '26214',
-            'Density': '11.1',
+            'Pop': '24829',
+            'Density': '10.5',
             'Rank': '23'
         }, {
             'Name': 'Teller', 'Label': 'Teller',
             'SqMi': '558.964355380158',
-            'Pop': '25686',
-            'Density': '45.9',
+            'Pop': '24710',
+            'Density': '44.4',
             'Rank': '24'
         }, {
             'Name': 'Logan', 'Label': 'Logan',
             'SqMi': '1844.86371728961',
-            'Pop': '22176',
-            'Density': '12.3',
+            'Pop': '21528,
+            'Density': '11.7',
             'Rank': '25'
         }, {
             'Name': 'Chaffee', 'Label': 'Chaffee',
             'SqMi': '1014.95239846785',
-            'Pop': '20448',
-            'Density': '20.1',
+            'Pop': '19476',
+            'Density': '19.2',
             'Rank': '26'
         }, {
             'Name': 'Park', 'Label': 'Park',
             'SqMi': '2210.65210342153',
-            'Pop': '19029',
-            'Density': '8.6',
-            'Rank': '27'
+            'Pop': '17390',
+            'Density': '7.9',
+            'Rank': '28'
         }, {
             'Name': 'Otero', 'Label': 'Otero',
             'SqMi': '1269.70320579281',
-            'Pop': '18287',
-            'Density': '14.4',
-            'Rank': '28'
+            'Pop': '18690',
+            'Density': '14.8',
+            'Rank': '27'
         }, {
             'Name': 'Pitkin', 'Label': 'Pitkin',
             'SqMi': '973.194655967546',
-            'Pop': '17876',
-            'Density': '18.4',
+            'Pop': '17358',
+            'Density': '17.9',
             'Rank': '29'
         }, {
             'Name': 'Las_Animas', 'Label': 'Las Animas',
             'SqMi': '4775.34509174708',
-            'Pop': '14380',
-            'Density': '3.0',
+            'Pop': '14555',
+            'Density': '3.1',
             'Rank': '33'
         }, {
             'Name': 'Grand', 'Label': 'Grand',
             'SqMi': '1869.59150597952',
-            'Pop': '15729',
-            'Density': '8.4',
+            'Pop': '15717',
+            'Density': '8.5',
             'Rank': '32'
         }, {
             'Name': 'Gunnison', 'Label': 'Gunnison',
             'SqMi': '3259.62790549657',
-            'Pop': '17450',
-            'Density': '5.4',
+            'Pop': '16918',
+            'Density': '5.2',
             'Rank': '30'
         }, {
             'Name': 'Alamosa', 'Label': 'Alamosa',
             'SqMi': '723.340716215648',
-            'Pop': '16485',
-            'Density': '22.8',
+            'Pop': '16376',
+            'Density': '22.7',
             'Rank': '31'
         }, {
             'Name': 'Archuleta', 'Label': 'Archuleta',
             'SqMi': '1355.51355328166',
-            'Pop': '14176',
-            'Density': '10.5',
+            'Pop': '13359',
+            'Density': '9.9',
             'Rank': '34'
         }, {
             'Name': 'Moffat', 'Label': 'Moffat',
             'SqMi': '4750.91047532509',
-            'Pop': '13137',
+            'Pop': '13292',
             'Density': '2.8',
             'Rank': '35'
         }, {
             'Name': 'Rio_Grande', 'Label': 'Rio Grande',
             'SqMi': '912.337356411352',
-            'Pop': '11136',
-            'Density': '12.2',
+            'Pop': '11539',
+            'Density': '12.7',
             'Rank': '37'
         }, {
             'Name': 'Prowers', 'Label': 'Prowers',
             'SqMi': '1644.32145084111',
-            'Pop': '12027',
+            'Pop': '11999',
             'Density': '7.3',
             'Rank': '36'
         }, {
             'Name': 'Yuma',
             'SqMi': '2368.70279920581',
-            'Pop': '10083',
-            'Density': '4.3',
+            'Pop': '9988',
+            'Density': '4.2',
             'Rank': '38'
         }, {
             'Name': 'San_Miguel', 'Label': 'San Miguel',
             'SqMi': '1288.6239771593',
-            'Pop': '8551',
-            'Density': '6.6',
+            'Pop': '8072',
+            'Density': '6.3',
             'Rank': '40'
         }, {
             'Name': 'Clear_Creek', 'Label': 'Clear Creek',
             'SqMi': '396.493068917112',
-            'Pop': '9779',
-            'Density': '24.7',
+            'Pop': '9397',
+            'Density': '23.8',
             'Rank': '39'
         }, {
             'Name': 'Lake', 'Label': 'Lake',
             'SqMi': '383.90840974975',
-            'Pop': '7901',
-            'Density': '20.6',
+            'Pop': '7436',
+            'Density': '19.7',
             'Rank': '42'
         }, {
             'Name': 'Conejos', 'Label': 'Conejos',
             'SqMi': '1290.95574134619',
-            'Pop': '8143',
-            'Density': '6.3',
+            'Pop': '7461',
+            'Density': '5.8',
             'Rank': '41'
         }, {
             'Name': 'Kit_Carson', 'Label': 'Kit Carson',
             'SqMi': '2161.69013968802',
-            'Pop': '7181',
+            'Pop': '7087',
             'Density': '3.3',
             'Rank': '43'
         }, {
             'Name': 'Rio_Blanco', 'Label': 'Rio Blanco',
             'SqMi': '3222.81172843957',
-            'Pop': '6315',
+            'Pop': '6529',
             'Density': '2.0',
-            'Rank': '46'
+            'Rank': '45'
         }, {
             'Name': 'Saguache', 'Label': 'Saguache',
             'SqMi': '3170.24310870366',
-            'Pop': '6889',
-            'Density': '2.2',
-            'Rank': '44'
+            'Pop': '6368',
+            'Density': '2.0',
+            'Rank': '46'
         }, {
             'Name': 'Huerfano', 'Label': 'Huerfano',
             'SqMi': '1593.23639444933',
-            'Pop': '6775',
+            'Pop': '6820',
             'Density': '4.3',
-            'Rank': '45'
+            'Rank': '44'
         }, {
             'Name': 'Bent', 'Label': 'Bent',
             'SqMi': '1541.0821745151',
-            'Pop': '5836',
-            'Density': '3.8',
-            'Rank': '49'
+            'Pop': '5650',
+            'Density': '3.7',
+            'Rank': '50'
         }, {
             'Name': 'Crowley', 'Label': 'Crowley',
             'SqMi': '800.328338022562',
-            'Pop': '5915',
-            'Density': '7.4',
-            'Rank': '48'
+            'Pop': '5922',
+            'Density': '7.5',
+            'Rank': '47'
         }, {
             'Name': 'Gilpin', 'Label': 'Gilpin',
             'SqMi': '150.259711866754',
-            'Pop': '6119',
-            'Density': '40.8',
-            'Rank': '47'
+            'Pop': '5808',
+            'Density': '38.8',
+            'Rank': '48'
         }, {
             'Name': 'Lincoln', 'Label': 'Lincoln',
             'SqMi': '2586.42084710129',
-            'Pop': '5719',
+            'Pop': '5675',
             'Density': '2.2',
-            'Rank': '50'
+            'Rank': '49'
         }, {
             'Name': 'Custer', 'Label': 'Custer',
             'SqMi': '739.924257349232',
-            'Pop': '4951',
-            'Density': '6.7',
-            'Rank': '51'
+            'Pop': '4704',
+            'Density': '6.4',
+            'Rank': '53'
         }, {
             'Name': 'Ouray', 'Label': 'Ouray',
             'SqMi': '542.210162954104',
-            'Pop': '4887',
+            'Pop': '4874',
             'Density': '9.0',
-            'Rank': '52'
+            'Rank': '51'
         }, {
             'Name': 'Washington', 'Label': 'Washington',
             'SqMi': '2523.90155681422',
-            'Pop': '4717',
+            'Pop': '4817',
             'Density': '1.9',
-            'Rank': '53'
+            'Rank': '52'
         }, {
             'Name': 'Phillips', 'Label': 'Phillips',
             'SqMi': '688.04410960309',
-            'Pop': '4246',
-            'Density': '6.2',
+            'Pop': '4530',
+            'Density': '6.6',
             'Rank': '54'
         }, {
             'Name': 'Costilla', 'Label': 'Costilla',
             'SqMi': '1230.35992396407',
-            'Pop': '3824',
-            'Density': '3.1',
-            'Rank': '55'
+            'Pop': '3499',
+            'Density': '2.9',
+            'Rank': '56'
         }, {
             'Name': 'Baca', 'Label': 'Baca',
             'SqMi': '2557.33722823497',
-            'Pop': '3510',
+            'Pop': '3506',
             'Density': '1.4',
-            'Rank': '56'
+            'Rank': '55'
         }, {
             'Name': 'Sedgwick', 'Label': 'Sedgwick',
             'SqMi': '549.40380808133',
-            'Pop': '2245',
-            'Density': '4.1',
+            'Pop': '2404',
+            'Density': '4.4',
             'Rank': '57'
         }, {
             'Name': 'Dolores', 'Label': 'Dolores',
             'SqMi': '1068.09955614327',
-            'Pop': '2031',
-            'Density': '1.9',
+            'Pop': '2326',
+            'Density': '2.2',
             'Rank': '58'
         }, {
             'Name': 'Cheyenne', 'Label': 'Cheyenne',
             'SqMi': '1781.42801467774',
-            'Pop': '1857',
+            'Pop': '1748',
             'Density': '1.0',
             'Rank': '59'
         }, {
             'Name': 'Kiowa', 'Label': 'Kiowa',
             'SqMi': '1785.92580954022',
-            'Pop': '1373',
-            'Density': '0.8',
-            'Rank': '61'
-        }, {
-            'Name': 'Jackson', 'Label': 'Jackson',
-            'SqMi': '1620.96166979995',
-            'Pop': '1376',
+            'Pop': '1446',
             'Density': '0.8',
             'Rank': '60'
         }, {
+            'Name': 'Jackson', 'Label': 'Jackson',
+            'SqMi': '1620.96166979995',
+            'Pop': '1379',
+            'Density': '0.9',
+            'Rank': '61'
+        }, {
             'Name': 'Hinsdale', 'Label': 'Hinsdale',
             'SqMi': '1123.16778169429',
-            'Pop': '829',
+            'Pop': '788',
             'Density': '0.7',
-            'Rank': '62'
+            'Rank': '63'
         }, {
             'Name': 'Mineral', 'Label': 'Mineral',
             'SqMi': '877.682340125418',
-            'Pop': '782',
-            'Density': '0.9',
-            'Rank': '63'
+            'Pop': '865',
+            'Density': '1.0',
+            'Rank': '62'
         }, {
             'Name': 'San_Juan', 'Label': 'San Juan',
             'SqMi': '388.27347239718',
-            'Pop': '765',
-            'Density': '2.0',
+            'Pop': '705',
+            'Density': '108',
             'Rank': '64'
         }
     ],
