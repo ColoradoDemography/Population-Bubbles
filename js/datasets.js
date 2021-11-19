@@ -5925,7 +5925,7 @@ var ds = [
         }, {
             'Name': 'Logan', 'Label': 'Logan',
             'SqMi': '1844.86371728961',
-            'Pop': '21528,
+            'Pop': '21528',
             'Density': '11.7',
             'Rank': '25'
         }, {
