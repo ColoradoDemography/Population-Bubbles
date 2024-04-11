@@ -1,5 +1,5 @@
 body {
-	font-family: Copse, Georgia, serif;
+	font-family: Arial, sans-serif;
 }
 
 #tooltip {
@@ -232,6 +232,7 @@ svg {
 }
 
 #ylabel {
+	font-family: Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	position: absolute;
 	color: #222222;
@@ -293,6 +294,7 @@ svg {
 }
 
 .reg2 {
+	font-family: Arial, sans-serif;
 	position: absolute;
 	font-size: 11.5px;
 	color: #444444;
