@@ -5878,7 +5878,7 @@ var ds = [
             'Name': 'Montrose', 'Label': 'Montrose',
             'SqMi': '2242.5948944708',
             'Pop': '42679',
-            'Density': '191.0',
+            'Density': '19.1',
             'Rank': '17'
         }, {
             'Name': 'Delta', 'Label': 'Delta',
@@ -6160,7 +6160,7 @@ var ds = [
             'Name': 'San_Juan', 'Label': 'San Juan',
             'SqMi': '388.27347239718',
             'Pop': '705',
-            'Density': '108',
+            'Density': '1.08',
             'Rank': '64'
         }
     ],
